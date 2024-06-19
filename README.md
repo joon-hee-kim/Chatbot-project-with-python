@@ -10,8 +10,8 @@ This chatbot has **time and alarm** functions, **dictionary** functions, **recor
 
 ## Output
 1. Current date and time, medication alarm </br>
-- The Korean meaning of the picture below is "The current time is 6:53. Today is June 19, 2024. Please set a medication reminder time zone. (HH:MM) 6:54
-It's time to take your medicine." <a href="https://github.com/joon-hee-kim/MarioGameApp" >
+- The Korean meaning of the picture below is "The current time is 6:53. Today is June 19, 2024.
+- Please set a medication reminder time zone. (HH:MM) 6:54 It's time to take your medicine." <a href="https://github.com/joon-hee-kim/MarioGameApp" >
     <img src="https://github.com/joon-hee-kim/pythonprogram/assets/121689436/8aeb6ef5-8f8d-4e5e-b785-a6c1cd905e89" width="55%" height="55%">
 </a> </br></br>
 
@@ -25,12 +25,16 @@ It's time to take your medicine." <a href="https://github.com/joon-hee-kim/Mario
     <img src="https://github.com/joon-hee-kim/pythonprogram/assets/121689436/5f5ad1ab-b911-408a-8286-b1fd926b682d" width="55%" height="55%">
 </a> </br></br>
 
-3. Recording </br>
-* **Video** of Recording (**A little loading!**) </br>
-
-
+3. Recording
+- When you enter "chat.py", you can record whay you want to say. Then if you enter "chat.py", you can listen to what you said.
+![image](https://github.com/joon-hee-kim/Chatbot-project-with-python/assets/121689436/1354ac85-493b-4c96-90d8-4aad730bf6f4)
 
 
 ## ✔️ Source
-* Youtube video you referenced: [Reference Link](https://www.youtube.com/watch?v=i-Wg6oc8X04&t=1s) </br>
-* GitHub source of the referenced YouTuber: [Reference Link](https://github.com/jgs901221/Android-basic-game-making-source) </br>
+- [Source Link1](https://www.nltk.org)</br>
+- [Source Link2](https://github.com/nltk/nltk/blob/develop/nltk/chat/util.py)</br>
+- [Source Link3](https://www.nltk.org/book)</br>
+- [Source Link4](https://people.csail.mit.edu/hubert/pyaudio/docs/)</br>
+- [Source Link5](https://docs.python.org/3/library/)</br>
+
+
