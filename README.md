@@ -1,9 +1,8 @@
 # Python Programming (Dementia Prevention Chatbot Project)
-This is the result of a chatbot-related Python project.
+This is the result of a chatbot-related Python project.</br></br>
 
 ## Motivation
-I was interested in the Nintendo Mario game, so I created a Mario game app using Java in Android Studio by referring to YouTube and Google on my own.
-
+As South Korea faces a super-aged society, the anticipated increase in the elderly population is expected to lead to a rise in dementia cases. Therefore, I believe that dementia prevention is crucial and have decided to take action.</br></br>
 
 ## Project Structure
 This chatbot has **time and alarm** functions, **dictionary** functions, **recording** functions, and **quiz** functions. </br></br>
@@ -29,8 +28,6 @@ It's time to take your medicine." <a href="https://github.com/joon-hee-kim/Mario
 3. Recording </br>
 * **Video** of Recording (**A little loading!**) </br>
 
-
-</br></br>
 
 
 
